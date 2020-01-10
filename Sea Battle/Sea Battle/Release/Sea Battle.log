@@ -1,0 +1,23 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  SB.cpp
+d:\work\my_programs\sea battle\sea battle\sb.cpp(7): warning C4603: indent: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\work\my_programs\sea battle\sea battle\sb.cpp(7): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\work\my_programs\sea battle\sea battle\sb.cpp(665): note: использование предварительно скомпилированного заголовка
+d:\work\my_programs\sea battle\sea battle\sb.cpp(8): warning C4603: field_size: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\work\my_programs\sea battle\sea battle\sb.cpp(8): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\work\my_programs\sea battle\sea battle\sb.cpp(665): note: использование предварительно скомпилированного заголовка
+d:\work\my_programs\sea battle\sea battle\sb.cpp(9): warning C4603: cell_size: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\work\my_programs\sea battle\sea battle\sb.cpp(9): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\work\my_programs\sea battle\sea battle\sb.cpp(665): note: использование предварительно скомпилированного заголовка
+d:\work\my_programs\sea battle\sea battle\sb.cpp(10): warning C4603: button_height: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\work\my_programs\sea battle\sea battle\sb.cpp(10): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\work\my_programs\sea battle\sea battle\sb.cpp(665): note: использование предварительно скомпилированного заголовка
+d:\work\my_programs\sea battle\sea battle\sb.cpp(11): warning C4603: field2leftindent: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\work\my_programs\sea battle\sea battle\sb.cpp(11): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\work\my_programs\sea battle\sea battle\sb.cpp(665): note: использование предварительно скомпилированного заголовка
+  Создание кода
+  0 of 32 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Sea Battle.vcxproj -> D:\work\my_programs\Sea Battle\Release\Sea Battle.exe
